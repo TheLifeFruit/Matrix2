@@ -1,0 +1,3 @@
+C:/Users/Schüler/OneDrive/Code GIT/Matrix2/cmake-build-debug/CMakeFiles/Matrix2.dir
+C:/Users/Schüler/OneDrive/Code GIT/Matrix2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Schüler/OneDrive/Code GIT/Matrix2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
