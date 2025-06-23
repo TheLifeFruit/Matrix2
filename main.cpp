@@ -52,13 +52,13 @@ void drawmatrix(std::vector<std::vector<int>> v, int h, int w) {
     for (int i = 0; i < v.size(); i++) {
         for (int j = 0; j < cols; j++) {
             if (i == h && w == j) {
-                std::cout << "|X|";
+                std::cout << "|X";
             }else {
-                std::cout << "|" << v.at(i).at(j) << "|";
+                std::cout << "|" << v.at(i).at(j);
             }
 
         }
-        std::cout << std::endl ;
+        std::cout << "|" << std::endl ;
     }
 }
 
